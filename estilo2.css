@@ -1,0 +1,151 @@
+.geral{
+    display: grid;
+    grid-template-columns: 400px 500px;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.imagem-pop{
+    width: 500px;
+    border-top-right-radius: 50px;
+}
+
+.bloco1{
+    background: linear-gradient(135deg,#A6778D,#735158);
+}
+
+.titulo-b1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3A2733;
+    margin-top: 180px;
+    margin-left: 130px;
+}
+
+.texto-b1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3A2733;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+
+.seta{
+    width: 40px;
+    margin-left: 270px;
+}
+
+.titulo1-b1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3A2733;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.subtitulo-b1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3A2733;
+    margin-top: 70px;
+    margin-left: 130px;
+}
+
+.geral2{
+    display: grid;
+    grid-template-columns: 400px 400px;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    gap: 30px;
+}
+
+.fotos{
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    gap: 10px;
+}
+
+.fotos img{
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.geral3{
+    display: grid;
+    grid-template-columns: 400px 500px;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    gap: 50px;
+}
+
+.seta3{
+    width: 50px;
+    margin-left: 270px;
+    margin-top: 450px;
+}
+
+.texto3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    gap: 20px;
+}
+
+.parte2 img{
+    margin-top: 50;
+    width: 500px;
+    height: 400px;
+}
+
+```css
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.geral4 {
+    width: 900px;
+    height: 600px;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.bloco1 {
+    background-color: #21d9c1;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.bloco1 h1 {
+    font-size: 30px;
+}
+
+.bloco1 h4 {
+    margin: 20px;
+}
+
+.seta {
+    width: 30px;
+}
+
+.bloco4 {
+    padding: 40px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 40px 0;
+}
+
+.grid div {
+    margin: 10px;
+}
+
+.grid img {
+    width: 40px;
+}
+
+.grid p {
+    font-weight: bold;
+}
+```
